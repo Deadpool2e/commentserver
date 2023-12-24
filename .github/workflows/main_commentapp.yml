@@ -63,4 +63,4 @@ jobs:
           app-name: 'CommentApp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DA293B1039FC4BF495AA6412DB2778A2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_655CB2C86C8F4946A16F9CD2140332D3 }}
